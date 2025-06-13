@@ -7,6 +7,6 @@ services:
     startCommand: python 123.py
     envVars:
       - key: API_TOKEN
-        value: "ВСТАВЬ_СВОЙ_ТОКЕН"
+        value: "8122121501:AAGYH5J5c7oGNqTfcRaYFNv-SBCEKPWEbEI"
       - key: PORT
         value: "10000"
